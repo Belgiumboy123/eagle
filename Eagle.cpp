@@ -23,6 +23,15 @@ namespace{
 	
 	const int dHor = 2;
 	const int dVer = 1;
+	
+	const int UP = SDLK_w;
+	const int DOWN = SDLK_s;
+	const int RIGHT = SDLK_d;
+	const int LEFT = SDLK_a;
+	const int SHIELD = SDLK_i;
+	const int ATTACK = SDLK_j;
+	
+	
 }
 
 Eagle::Eagle(): Game() {}
@@ -41,9 +50,10 @@ void Eagle::setupLevel(){
 	player->direction = 3;
 	player->pos_x = 400;
 	player->pos_y = 200;
-	player->imageType = Standard;
-	player->sword = EAGLE::sword1;
+	player->imageType = &Standard;
+	player->sword = 0;
 	player->shield = false;
+	player->attacking = false;
 	//std::cout << *player;
 	Actors.push_back( player );
 }
@@ -65,54 +75,54 @@ void Eagle::handleInput(){
 	
 	//RELEASED
 	
-	if( keysUp[SDLK_w] ){ //UP
+	if( keysUp[UP] ){ //UP
 	
 		velY =0;
 	}
 	
-	if( keysUp[SDLK_s]){ //DOWN
+	if( keysUp[DOWN]){ //DOWN
 	
 		velY =0;
 	}
 	
-	if( keysUp[SDLK_a]){ //LEFT
+	if( keysUp[LEFT]){ //LEFT
 		
 		velX =0;
 	}
 	
-	if( keysUp[SDLK_d]){ //RIGHT
+	if( keysUp[RIGHT]){ //RIGHT
 		
 		velX =0;
 	}
 	
-	if( keysUp[SDLK_i]){
+	if( keysUp[SHIELD]){
 	
 		player->shield = false;
 	}
 	
 	///// PRESSED
 	
-	if( keysDown[SDLK_w] ){ //UP
+	if( keysDown[UP] ){ //UP
 		
 		velY = -dVer;
 	}
 	
-	if( keysDown[SDLK_s]){ //DOWN
+	if( keysDown[DOWN]){ //DOWN
 		
 		velY = dVer;
 	}
 	
-	if( keysDown[SDLK_a]){ //LEFT
+	if( keysDown[LEFT]){ //LEFT
 		
 		velX = -dHor;
 	}
 	
-	if( keysDown[SDLK_d]){ //RIGHT
+	if( keysDown[RIGHT]){ //RIGHT
 		
 		velX = dHor;
 	}
 	
-	if( keysDown[SDLK_i]){
+	if( keysDown[SHIELD]){
 	
 		player->shield = true;
 	}
@@ -123,10 +133,12 @@ void Eagle::handleInput(){
 		(int)++player->position%3;
 	}
 	
-	if (velX > 0) player->direction = 2; //right
-	if (velX < 0) player->direction = 1; //left
-	if (velY > 0) player->direction = 0; //up
-	if (velY < 0) player->direction = 3; //down
+	if( !player->attacking ){//dont change direction when player is attacking
+		if (velX > 0) player->direction = 2; //right
+		if (velX < 0) player->direction = 1; //left
+		if (velY > 0) player->direction = 0; //up
+		if (velY < 0) player->direction = 3; //down
+	}
 	
 	player->pos_x += velX;
 	player->pos_y += velY;

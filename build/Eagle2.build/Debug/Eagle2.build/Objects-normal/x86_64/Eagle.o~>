@@ -1,0 +1,2 @@
+/Users/bmoulin/Desktop/Eagle2/Eagle.cpp: In member function 'virtual void Eagle::setupLevel()':
+/Users/bmoulin/Desktop/Eagle2/Eagle.cpp:53: error: invalid conversion from 'const ImageType*' to 'ImageType*'

@@ -43,7 +43,8 @@ Actor::Actor(){
 	direction =0.0f; // which way char is facing [0-3] toward, left, right, away   
 	position =0.0f; //  which motion in step  [0-2]
 	sword = -1;  //-1 no sword
-	shield = false;  
+	attacking = false;
+	shield = false; 
 }
 
 ostream &operator<<(ostream &stream, ImageType imageType){

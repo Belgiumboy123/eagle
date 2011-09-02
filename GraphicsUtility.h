@@ -30,6 +30,18 @@ namespace Graphics{
 	bool LoadImages(const std::vector<std::string>& imagefiles, std::vector<unsigned int>& images);
 	
 	/**
+	 * Render objects whose image files are just them
+	 *
+	 */
+	void RenderObject(
+						const unsigned int& texID,
+						const int& xpos,
+						const int& ypos,
+						const int& w,
+						const int& h
+						);
+	
+	/**
 	 * Render given texture with given coords, and given image partition
 	 */
 	void RenderActor(

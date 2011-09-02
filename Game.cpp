@@ -45,10 +45,7 @@ void Game::init(){
 	Graphics::LoadPlayerImg( player->imageID );
 	Graphics::LoadImages(imagefiles, images);
 	im = new InputManager();
-	for( int i = 0;  i<images.size(); i++ ){
 	
-		cout << images[i] << endl;
-	}
 	std::cout << "Game Initialization complete" << std::endl;
 }
 
@@ -57,44 +54,57 @@ void Game::handleInput(){}
 void Game::doRenderScene(){
 	
 	Graphics::StartDrawing();
+	
 	vector<Actor*>::iterator it = Actors.begin();
 	for( ; it != Actors.end(); ++it){
 		
 		const Actor& actor = **it;
-		//std::cout << "rendering actor" << std::endl;
-		//std::cout << actor.position/actor.imageType.cols << " texposx" << std::endl;
-		//std::cout << actor.direction/actor.imageType.rows << " texposy" << std::endl;
-		//std::cout << actor.imageType.per_w << " texwidth" << std::endl;
-		//std::cout << actor.imageType.per_h << " texheight" << std::endl;
-		//std::cout << actor.pos_x << " pos x" << std::endl;
-		//std::cout << actor.pos_y << " pos y" << std::endl;
-		//std::cout << actor.imageType.w << " pixel width" << std::endl;
-		//std::cout << actor.imageType.h << " pixel height" << std::endl;
 		
 		if( actor.shield ){ //actor has shield on
 			
-			int x = actor.pos_x +actor.imageType.w/2;
-			int y = actor.pos_y + actor.imageType.h/2;
-			int r = actor.imageType.w/2;
+			int x = actor.pos_x +actor.imageType->w/2;
+			int y = actor.pos_y + actor.imageType->h/2;
+			int r = actor.imageType->w/2;
 			
 			Graphics::RenderCircle( x,y,r);
+		}
+		
+		if( (int)actor.position%2 == 1 ){
+			
+			DrawWeapon(actor);
 		}
 		
 		Graphics::RenderActor
 		(
 			actor.imageID,
-			actor.position/actor.imageType.cols,
-			actor.direction/actor.imageType.rows,
-			actor.imageType.per_w,
-			actor.imageType.per_h,
+			actor.position/actor.imageType->cols,
+			actor.direction/actor.imageType->rows,
+			actor.imageType->per_w,
+			actor.imageType->per_h,
 			actor.pos_x,
 			actor.pos_y,
-			actor.imageType.w,
-			actor.imageType.h
+			actor.imageType->w,
+			actor.imageType->h
 		);
+		
+		if( (int)actor.position%2 == 0){
+				
+			DrawWeapon( actor );
+		}
 	}
 	
 	Graphics::EndDrawing();
+}
+
+void Game::DrawWeapon(const Actor& actor){
+
+	if( actor.attacking ){
+		
+	}else{
+		cout << "drawing sword" << endl;
+		Graphics::RenderObject(images[actor.sword],actor.pos_x,actor.pos_y,actor.imageType->w/4,actor.imageType->h/3);	
+	}
+	
 }
 
 void Game::startGameLoop(){

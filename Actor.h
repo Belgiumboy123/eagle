@@ -12,7 +12,11 @@
 #define ACTOR_H
 
 #include <iostream>
+#include <map>
+#include <vector>
 using std::ostream;
+
+
 
 
 struct ImageType{
@@ -31,6 +35,26 @@ struct ImageType{
 /** Constant ImageType instances */
 const ImageType Standard( 128,128,4,3);
 
+/**
+ * Contains information needed for a render object to carry out 
+ * an animation frame by frame in n number of directions
+ *
+ * 
+ */
+struct Animation{
+		
+	//length of animation == animate[direction].size()
+	int curIdx; //current index into animation
+	//map of animation translate/rotates
+	// index to animate is direction object is facing
+	// index to animate[position] is advancement into animation curIdx
+	// pair.first is amount to translate by
+	// pair.second is amount to rotate by
+	
+	//curIdx 0 indicates static position - when animation isn't happening
+	
+	std::vector< std::vector< std::pair<int,int> > > animate;
+};
 
 /**
  * Holds all graphical variables needed to so it can rendered on screen
@@ -43,9 +67,10 @@ struct Actor{
 	int pos_y;
 	float direction;
 	float position;
-	int sword;
 	bool shield;
-	ImageType imageType;
+	bool attacking;
+	int sword; //index to images ->sword texture
+	const ImageType* imageType;
 	Actor();
 };
 

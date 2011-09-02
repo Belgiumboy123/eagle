@@ -1,7 +1,7 @@
 TEagle2
 v7
 r0
-t336176332.149883
+t336625937.201269
 cCheck dependencies
 cProcessInfoPlistFile /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Info.plist Info.plist
 cCopyStringsFile /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
@@ -148,21 +148,21 @@ t1286861636
 s1714464
 
 N/Users/bmoulin/Desktop/Eagle2/Actor.cpp
-c000000004E5944C5000000000000059E
-t1314473157
-s1438
+c000000004E6042CC00000000000005B1
+t1314931404
+s1457
 i"Actor.h"
 
 N/Users/bmoulin/Desktop/Eagle2/Actor.h
-c000000004E5944CC0000000000000453
-t1314473164
-s1107
+c000000004E6049830000000000000724
+t1314933123
+s1828
 i<iostream>
 
 N/Users/bmoulin/Desktop/Eagle2/Eagle.cpp
-c000000004E596D470000000000000874
-t1314483527
-s2164
+c000000004E604336000000000000096A
+t1314931510
+s2410
 i"Eagle.h"
 i"Actor.h"
 i"GraphicsUtility.h"
@@ -194,9 +194,9 @@ t1313197738
 s534
 
 N/Users/bmoulin/Desktop/Eagle2/Game.cpp
-c000000004E5947B40000000000000B5C
-t1314473908
-s2908
+c000000004E6046230000000000000A43
+t1314932259
+s2627
 i"Game.h"
 i"Actor.h"
 i"GraphicsUtility.h"
@@ -205,16 +205,16 @@ i"SDL_timer.h"
 i<iostream>
 
 N/Users/bmoulin/Desktop/Eagle2/Game.h
-c000000004E56FF3E00000000000002EC
-t1314324286
-s748
+c000000004E60458D0000000000000321
+t1314932109
+s801
 i<vector>
 i<string>
 
 N/Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp
-c000000004E594B070000000000000DEC
-t1314474759
-s3564
+c000000004E6041780000000000000ED3
+t1314931064
+s3795
 i"GraphicsUtility.h"
 i"SDL_image.h"
 i"SDL_opengl.h"
@@ -223,9 +223,9 @@ i<iostream>
 i<math.h>
 
 N/Users/bmoulin/Desktop/Eagle2/GraphicsUtility.h
-c000000004E591C220000000000000436
-t1314462754
-s1078
+c000000004E604108000000000000050C
+t1314930952
+s1292
 i<map>
 i<vector>
 
@@ -289,163 +289,163 @@ i<sys/param.h>
 i<unistd.h>
 
 N/Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app
-t1314483530
+t1314933131
 s102
 
 N/Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Frameworks/SDL.framework
-t1313559859
+t1314931336
 s204
 
 N/Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Info.plist
-t1313548254
+t1314931320
 s964
 
 N/Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/MacOS/Eagle2
-t1314483530
-s338428
+t1314933131
+s342796
 
 N/Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/PkgInfo
-t1313548254
+t1314931320
 s8
 
 N/Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1313548254
+t1314931321
 s534
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Actor.o
-t1314473168
-s72140
+t1314933128
+s72088
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle.o
-t1314483530
-s117984
+t1314933129
+s118304
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle2
-t1314483530
-s105236
+t1314933130
+s105572
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle2.LinkFileList
-c000000004E4B27DD0000000000000312
-t1313548253
+c000000004E6042780000000000000312
+t1314931320
 s786
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Game.o
-t1314474001
-s158460
+t1314933130
+s158764
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/GraphicsUtility.o
-t1314483479
-s128756
+t1314931330
+s129556
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/ImageLoader.o
 t1313352872
 s70460
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/InputManager.o
-t1314311811
+t1314931331
 s78164
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Logger.o
-t1313548263
+t1314931329
 s81168
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/SDLMain.o
-t1313548263
+t1314931328
 s37208
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/main.o
-t1314325131
-s98660
+t1314932112
+s98724
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Actor.o
-t1314473170
-s74732
+t1314933130
+s74684
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle.o
-t1314483530
-s122412
+t1314933131
+s122748
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle2
-t1314483530
-s113148
+t1314933131
+s117516
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle2.LinkFileList
-c000000004E4B27DD000000000000030A
-t1313548253
+c000000004E604278000000000000030A
+t1314931320
 s778
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Game.o
-t1314474002
-s167180
+t1314933131
+s167560
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/GraphicsUtility.o
-t1314483480
-s134812
+t1314931335
+s135676
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/ImageLoader.o
 t1313352873
 s72324
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/InputManager.o
-t1314311812
+t1314931336
 s80012
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Logger.o
-t1313548267
+t1314931333
 s82824
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/SDLMain.o
-t1313548267
+t1314931333
 s40236
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/main.o
-t1314325132
-s100192
+t1314932114
+s100248
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Actor.o
-t1314473167
-s73464
+t1314933127
+s73452
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle.o
-t1314483530
-s121756
+t1314933128
+s122108
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle2
-t1314483530
-s111736
+t1314933128
+s112112
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle2.LinkFileList
-c000000004E4B27DD0000000000000322
-t1313548253
+c000000004E6042780000000000000322
+t1314931320
 s802
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Game.o
-t1314474001
-s166832
+t1314933128
+s167132
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/GraphicsUtility.o
-t1314483478
-s133976
+t1314931325
+s134780
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/ImageLoader.o
 t1313352872
 s72316
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/InputManager.o
-t1314311810
+t1314931327
 s79832
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Logger.o
-t1313548257
+t1314931323
 s82200
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/SDLMain.o
-t1313548260
+t1314931326
 s42372
 
 N/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/main.o
-t1314325131
-s99472
+t1314932111
+s99536
 
 N/Users/bmoulin/Desktop/Eagle2/main.c
 c000000004E45D73F000000000000018A
@@ -486,11 +486,11 @@ t1313197979
 s2261036
 
 N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch.gch
-t1313548254
+t1314931321
 s2523504
 
 N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bjarbevtopyrpzalofxxygdonzyf/Eagle2_Prefix.pch.gch
-t1313548254
+t1314931321
 s2330992
 
 N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bnjnfbeqhgejoaaqeykrtaznefgf/Eagle2_Prefix.pch.gch
@@ -550,11 +550,11 @@ t1313354688
 s2273648
 
 N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch.gch
-t1313548254
+t1314931321
 s2515312
 
 N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfukjxhfokrufwdydolcfskrbzxw/Eagle2_Prefix.pch.gch
-t1313548255
+t1314931321
 s2056560
 
 N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dlnteolorrjnrdelskesmtxgcgpw/Eagle2_Prefix.pch.gch
@@ -614,7 +614,7 @@ t1313201166
 s4397328
 
 N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch.gch
-t1313548255
+t1314931321
 s2273648
 
 N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fhbgwtemxqvqurfocsyolouaoylg/Eagle2_Prefix.pch.gch
@@ -674,7 +674,7 @@ t2
 s0
 
 N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-hbvfwswbmybzsldswbwzgwqhzigc/Eagle2_Prefix.pch.gch
-t1313548254
+t1314931321
 s2281840
 
 N/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-hcyghoksfrtzzleoydtpvlwdqdpd/Eagle2_Prefix.pch.gch
@@ -696,11 +696,11 @@ s1042
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies336176332#336176332#0(0"0(0#1#0"8617725120#0"0#
+lSLF07#2@18"Check dependencies336625937#336625937#0(0"0(0#1#0"8602372448#0"0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Actor.o /Users/bmoulin/Desktop/Eagle2/Actor.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s336165968.138083
-e336165968.537610
+s336625928.076432
+e336625928.777546
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Actor.o
@@ -709,11 +709,11 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Actor.cpp336165968#336165968#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Actor.cpp8615165504#1216"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Actor.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Actor.o0#
+lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Actor.cpp336625928#336625928#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Actor.cpp8613288512#1216"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Actor.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Actor.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle.o /Users/bmoulin/Desktop/Eagle2/Eagle.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s336176329.283700
-e336176330.041320
+s336625928.778128
+e336625929.998687
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle.o
@@ -722,11 +722,11 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Eagle.cpp336176329#336176330#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Eagle.cpp8617941824#1216"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Eagle.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle.o0#
+lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Eagle.cpp336625928#336625929#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Eagle.cpp8628361216#1216"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Eagle.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Game.o /Users/bmoulin/Desktop/Eagle2/Game.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s336166801.270865
-e336166801.906567
+s336625928.625769
+e336625930.174605
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Game.o
@@ -735,11 +735,11 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/Game.cpp336166801#336166801#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/Game.cpp8615408768#1214"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Game.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Game.o0#
+lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/Game.cpp336625928#336625930#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/Game.cpp8628689632#1214"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Game.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Game.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/GraphicsUtility.o /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s336176278.670088
-e336176279.363086
+s336624129.876172
+e336624130.805256
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/GraphicsUtility.o
@@ -748,7 +748,7 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp336176278#336176279#0(0"0(0#0#49"/Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp8616933504#1236"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/GraphicsUtility.o0#
+lSLF07#2@57"Compile /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp336624129#336624130#0(0"0(0#0#49"/Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp8628209120#1236"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/GraphicsUtility.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/ImageLoader.o /Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp normal i386 c++ com.apple.compilers.gcc.4_2
 s335045672.090534
@@ -764,8 +764,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@53"Compile /Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp335045672#335045672#0(0"0(0#0#45"/Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp8620892000#1228"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-gfbqrqvzsyryvdffotscgrdgxvsv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/ImageLoader.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/InputManager.o /Users/bmoulin/Desktop/Eagle2/InputManager.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s336004610.733731
-e336004611.595540
+s336624130.805391
+e336624131.651022
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/InputManager.o
@@ -774,11 +774,11 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@54"Compile /Users/bmoulin/Desktop/Eagle2/InputManager.cpp336004610#336004611#0(0"0(0#0#46"/Users/bmoulin/Desktop/Eagle2/InputManager.cpp8620803264#1230"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/InputManager.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/InputManager.o0#
+lSLF07#2@54"Compile /Users/bmoulin/Desktop/Eagle2/InputManager.cpp336624130#336624131#0(0"0(0#0#46"/Users/bmoulin/Desktop/Eagle2/InputManager.cpp8604529920#1230"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/InputManager.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/InputManager.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Logger.o /Users/bmoulin/Desktop/Eagle2/Logger.cpp normal i386 c++ com.apple.compilers.gcc.4_2
-s335241062.425675
-e335241063.664169
+s336624128.699168
+e336624129.874801
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Logger.o
@@ -787,7 +787,7 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@48"Compile /Users/bmoulin/Desktop/Eagle2/Logger.cpp335241062#335241063#0(0"0(0#0#40"/Users/bmoulin/Desktop/Eagle2/Logger.cpp8624604544#1218"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Logger.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Logger.o0#
+lSLF07#2@48"Compile /Users/bmoulin/Desktop/Eagle2/Logger.cpp336624128#336624129#0(0"0(0#0#40"/Users/bmoulin/Desktop/Eagle2/Logger.cpp8603685376#1218"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Logger.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Logger.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/SDLMain.o /Users/bmoulin/Desktop/Eagle2/SDLMain.m normal i386 objective-c com.apple.compilers.gcc.4_0
 s334890782.907790
@@ -803,8 +803,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/SDLMain.m334890782#334890783#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/SDLMain.m8605030976#1212"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Users/bmoulin/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Users/bmoulin/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-elhnsjhczduivrcvfyvbenvnovqd/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/SDLMain.m -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/SDLMain.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/SDLMain.o /Users/bmoulin/Desktop/Eagle2/SDLMain.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s335241059.983566
-e335241063.420278
+s336624126.584122
+e336624128.742641
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/SDLMain.o
@@ -813,7 +813,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/SDLMain.m335241059#335241063#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/SDLMain.m5569901963215517696#1198"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-hbvfwswbmybzsldswbwzgwqhzigc/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/SDLMain.m -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/SDLMain.o0#
+lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/SDLMain.m336624126#336624128#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/SDLMain.m8628368640#1198"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-hbvfwswbmybzsldswbwzgwqhzigc/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/SDLMain.m -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/SDLMain.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/main.o /Users/bmoulin/Desktop/Eagle2/main.c normal i386 c com.apple.compilers.gcc.4_0
 s334890783.102677
@@ -842,8 +842,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@44"Compile /Users/bmoulin/Desktop/Eagle2/main.c334892731#334892731#0(0"0(0#0#36"/Users/bmoulin/Desktop/Eagle2/main.c8604429376#1102"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bvysmbifqyzbxbaorwqfrilkmjpe/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/main.c -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/main.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/main.o /Users/bmoulin/Desktop/Eagle2/main.cxx normal i386 c++ com.apple.compilers.gcc.4_2
-s336017930.288110
-e336017931.286672
+s336624911.214948
+e336624912.941046
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/main.o
@@ -852,11 +852,11 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/main.cxx336017930#336017931#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/main.cxx8618624960#1214"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/main.cxx -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/main.o0#
+lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/main.cxx336624911#336624912#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/main.cxx8615555008#1214"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/main.cxx -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/main.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Actor.o /Users/bmoulin/Desktop/Eagle2/Actor.cpp normal ppc c++ com.apple.compilers.gcc.4_2
-s336165969.304337
-e336165970.046864
+s336625929.999124
+e336625930.758388
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Actor.o
@@ -865,11 +865,11 @@ xnormal
 xppc
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Actor.cpp336165969#336165970#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Actor.cpp8617247520#1223"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Actor.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Actor.o0#
+lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Actor.cpp336625929#336625930#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Actor.cpp8619823424#1223"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Actor.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Actor.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle.o /Users/bmoulin/Desktop/Eagle2/Eagle.cpp normal ppc c++ com.apple.compilers.gcc.4_2
-s336176330.097296
-e336176330.539712
+s336625930.758579
+e336625931.528075
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle.o
@@ -878,11 +878,11 @@ xnormal
 xppc
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Eagle.cpp336176330#336176330#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Eagle.cpp8615176192#1223"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Eagle.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle.o0#
+lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Eagle.cpp336625930#336625931#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Eagle.cpp8625831648#1223"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Eagle.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Game.o /Users/bmoulin/Desktop/Eagle2/Game.cpp normal ppc c++ com.apple.compilers.gcc.4_2
-s336166801.907320
-e336166802.500751
+s336625930.341375
+e336625931.455835
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Game.o
@@ -891,11 +891,11 @@ xnormal
 xppc
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/Game.cpp336166801#336166802#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/Game.cpp8615924128#1221"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Game.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Game.o0#
+lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/Game.cpp336625930#336625931#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/Game.cpp8612462944#1221"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Game.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Game.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/GraphicsUtility.o /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp normal ppc c++ com.apple.compilers.gcc.4_2
-s336176279.363703
-e336176280.367815
+s336624133.879653
+e336624135.227603
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/GraphicsUtility.o
@@ -904,7 +904,7 @@ xnormal
 xppc
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp336176279#336176280#0(0"0(0#0#49"/Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp8617164448#1243"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/GraphicsUtility.o0#
+lSLF07#2@57"Compile /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp336624133#336624135#0(0"0(0#0#49"/Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp8619383200#1243"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/GraphicsUtility.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/ImageLoader.o /Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp normal ppc c++ com.apple.compilers.gcc.4_2
 s335045673.005050
@@ -920,8 +920,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@53"Compile /Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp335045673#335045673#0(0"0(0#0#45"/Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp8613762560#1235"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-ddxjmrvaquycmhboymdwzjfthkvk/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/ImageLoader.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/InputManager.o /Users/bmoulin/Desktop/Eagle2/InputManager.cpp normal ppc c++ com.apple.compilers.gcc.4_2
-s336004611.878031
-e336004612.310007
+s336624135.227707
+e336624136.148309
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/InputManager.o
@@ -930,11 +930,11 @@ xnormal
 xppc
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@54"Compile /Users/bmoulin/Desktop/Eagle2/InputManager.cpp336004611#336004612#0(0"0(0#0#46"/Users/bmoulin/Desktop/Eagle2/InputManager.cpp8620999968#1237"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/InputManager.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/InputManager.o0#
+lSLF07#2@54"Compile /Users/bmoulin/Desktop/Eagle2/InputManager.cpp336624135#336624136#0(0"0(0#0#46"/Users/bmoulin/Desktop/Eagle2/InputManager.cpp8631037952#1237"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/InputManager.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/InputManager.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Logger.o /Users/bmoulin/Desktop/Eagle2/Logger.cpp normal ppc c++ com.apple.compilers.gcc.4_2
-s335241066.925181
-e335241067.820267
+s336624132.641633
+e336624133.600158
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Logger.o
@@ -943,7 +943,7 @@ xnormal
 xppc
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@48"Compile /Users/bmoulin/Desktop/Eagle2/Logger.cpp335241066#335241067#0(0"0(0#0#40"/Users/bmoulin/Desktop/Eagle2/Logger.cpp8609369056#1225"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Logger.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Logger.o0#
+lSLF07#2@48"Compile /Users/bmoulin/Desktop/Eagle2/Logger.cpp336624132#336624133#0(0"0(0#0#40"/Users/bmoulin/Desktop/Eagle2/Logger.cpp8620881696#1225"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Logger.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Logger.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/SDLMain.o /Users/bmoulin/Desktop/Eagle2/SDLMain.m normal ppc objective-c com.apple.compilers.gcc.4_0
 s334890783.149419
@@ -959,8 +959,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/SDLMain.m334890783#334890783#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/SDLMain.m8607645376#1219"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Users/bmoulin/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Users/bmoulin/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bnuczssdscnkizesbjdacwscclyb/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/SDLMain.m -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/SDLMain.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/SDLMain.o /Users/bmoulin/Desktop/Eagle2/SDLMain.m normal ppc objective-c com.apple.compilers.gcc.4_2
-s335241065.735221
-e335241067.926511
+s336624130.983007
+e336624133.300970
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/SDLMain.o
@@ -969,7 +969,7 @@ xnormal
 xppc
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/SDLMain.m335241065#335241067#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/SDLMain.m8618981952#1205"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfukjxhfokrufwdydolcfskrbzxw/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/SDLMain.m -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/SDLMain.o0#
+lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/SDLMain.m336624130#336624133#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/SDLMain.m8620696416#1205"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfukjxhfokrufwdydolcfskrbzxw/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/SDLMain.m -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/SDLMain.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/main.o /Users/bmoulin/Desktop/Eagle2/main.c normal ppc c com.apple.compilers.gcc.4_0
 s334890783.252359
@@ -998,8 +998,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@44"Compile /Users/bmoulin/Desktop/Eagle2/main.c334892732#334892732#0(0"0(0#0#36"/Users/bmoulin/Desktop/Eagle2/main.c8604155616#1109"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bzfgwvesrohgofcuxjfmkqgtmkpi/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/main.c -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/main.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/main.o /Users/bmoulin/Desktop/Eagle2/main.cxx normal ppc c++ com.apple.compilers.gcc.4_2
-s336017931.341934
-e336017932.053967
+s336624913.465585
+e336624914.505953
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/main.o
@@ -1008,11 +1008,11 @@ xnormal
 xppc
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/main.cxx336017931#336017932#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/main.cxx8607945952#1221"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/main.cxx -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/main.o0#
+lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/main.cxx336624913#336624914#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/main.cxx8619215552#1221"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/main.cxx -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/main.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Actor.o /Users/bmoulin/Desktop/Eagle2/Actor.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-s336165966.988715
-e336165967.926560
+s336625926.975080
+e336625927.828438
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Actor.o
@@ -1021,11 +1021,11 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Actor.cpp336165966#336165967#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Actor.cpp8622953920#1222"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Actor.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Actor.o0#
+lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Actor.cpp336625926#336625927#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Actor.cpp8619840192#1222"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Actor.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Actor.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle.o /Users/bmoulin/Desktop/Eagle2/Eagle.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-s336176329.282023
-e336176330.022871
+s336625927.828628
+e336625928.548645
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle.o
@@ -1034,11 +1034,11 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Eagle.cpp336176329#336176330#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Eagle.cpp8618042016#1222"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Eagle.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle.o0#
+lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/Eagle.cpp336625927#336625928#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/Eagle.cpp8619067680#1222"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Eagle.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Game.o /Users/bmoulin/Desktop/Eagle2/Game.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-s336166799.968390
-e336166801.270303
+s336625926.976263
+e336625928.076020
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Game.o
@@ -1047,11 +1047,11 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/Game.cpp336166799#336166801#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/Game.cpp8614532480#1220"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Game.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Game.o0#
+lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/Game.cpp336625926#336625928#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/Game.cpp8620033184#1220"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Game.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Game.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/GraphicsUtility.o /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-s336176277.737137
-e336176278.909776
+s336624124.862606
+e336624125.752572
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/GraphicsUtility.o
@@ -1060,7 +1060,7 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp336176277#336176278#0(0"0(0#0#49"/Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp8602251552#1242"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/GraphicsUtility.o0#
+lSLF07#2@57"Compile /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp336624124#336624125#0(0"0(0#0#49"/Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp8622969184#1242"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/GraphicsUtility.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/GraphicsUtility.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/ImageLoader.o /Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
 s335045670.940870
@@ -1076,8 +1076,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@53"Compile /Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp335045670#335045672#0(0"0(0#0#45"/Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp8599803584#1234"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-grlbdknesyjdufghvlfmoqksbgak/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/ImageLoader.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/ImageLoader.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/InputManager.o /Users/bmoulin/Desktop/Eagle2/InputManager.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-s336004609.424595
-e336004610.055804
+s336624126.413676
+e336624127.482402
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/InputManager.o
@@ -1086,11 +1086,11 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@54"Compile /Users/bmoulin/Desktop/Eagle2/InputManager.cpp336004609#336004610#0(0"0(0#0#46"/Users/bmoulin/Desktop/Eagle2/InputManager.cpp8619422912#1236"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/InputManager.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/InputManager.o0#
+lSLF07#2@54"Compile /Users/bmoulin/Desktop/Eagle2/InputManager.cpp336624126#336624127#0(0"0(0#0#46"/Users/bmoulin/Desktop/Eagle2/InputManager.cpp8611264128#1236"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/InputManager.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/InputManager.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Logger.o /Users/bmoulin/Desktop/Eagle2/Logger.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-s335241056.487119
-e335241057.047143
+s336624123.114602
+e336624123.633537
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Logger.o
@@ -1099,11 +1099,11 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@48"Compile /Users/bmoulin/Desktop/Eagle2/Logger.cpp335241056#335241057#0(0"0(0#0#40"/Users/bmoulin/Desktop/Eagle2/Logger.cpp8623720928#1224"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Logger.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Logger.o0#
+lSLF07#2@48"Compile /Users/bmoulin/Desktop/Eagle2/Logger.cpp336624123#336624123#0(0"0(0#0#40"/Users/bmoulin/Desktop/Eagle2/Logger.cpp8615047136#1224"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/Logger.cpp -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Logger.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/SDLMain.o /Users/bmoulin/Desktop/Eagle2/SDLMain.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s335241055.440370
-e335241060.384454
+s336624121.771697
+e336624126.413543
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/SDLMain.o
@@ -1112,7 +1112,7 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/SDLMain.m335241055#335241060#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/SDLMain.m8623741248#1204"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bjarbevtopyrpzalofxxygdonzyf/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/SDLMain.m -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/SDLMain.o0#
+lSLF07#2@47"Compile /Users/bmoulin/Desktop/Eagle2/SDLMain.m336624121#336624126#0(0"0(0#0#39"/Users/bmoulin/Desktop/Eagle2/SDLMain.m8620060960#1204"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bjarbevtopyrpzalofxxygdonzyf/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/SDLMain.m -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/SDLMain.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/atlantis.o /Users/bmoulin/Desktop/Eagle2/atlantis/atlantis.c normal x86_64 c com.apple.compilers.gcc.4_2
 r0
@@ -1134,8 +1134,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@44"Compile /Users/bmoulin/Desktop/Eagle2/main.c334892731#334892731#0(0"0(0#0#36"/Users/bmoulin/Desktop/Eagle2/main.c7020319295437486080#1108"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-ckbuuvldhtdzojfxcpdjzgbmwxug/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/main.c -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/main.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/main.o /Users/bmoulin/Desktop/Eagle2/main.cxx normal x86_64 c++ com.apple.compilers.gcc.4_2
-s336017930.271033
-e336017931.281686
+s336624909.457438
+e336624911.070871
 r1
 xCompileC
 xbuild/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/main.o
@@ -1144,7 +1144,7 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/main.cxx336017930#336017931#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/main.cxx8612390464#1220"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/main.cxx -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/main.o0#
+lSLF07#2@46"Compile /Users/bmoulin/Desktop/Eagle2/main.cxx336624909#336624911#0(0"0(0#0#38"/Users/bmoulin/Desktop/Eagle2/main.cxx8611402208#1220"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -include /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch -c /Users/bmoulin/Desktop/Eagle2/main.cxx -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/main.o0#
 
 CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/shark.o /Users/bmoulin/Desktop/Eagle2/atlantis/shark.c normal x86_64 c com.apple.compilers.gcc.4_2
 r0
@@ -1156,71 +1156,71 @@ CCompileC build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/whale.o /U
 r0
 
 CCopyStringsFile /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s335241054.027793
-e335241054.364102
+s336624120.793983
+e336624121.128517
 r1
 xCopyStringsFile
 x/Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Resources/English.lproj/InfoPlist.strings
 xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings335241054#335241054#0(0"0(0#0#61"/Users/bmoulin/Desktop/Eagle2/English.lproj/InfoPlist.strings8625908544#347"    cd /Users/bmoulin/Desktop/Eagle2    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Resources/English.lproj0#
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings336624120#336624121#0(0"0(0#0#61"/Users/bmoulin/Desktop/Eagle2/English.lproj/InfoPlist.strings8611257632#347"    cd /Users/bmoulin/Desktop/Eagle2    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Resources/English.lproj0#
 
 CCreateUniversalBinary /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/MacOS/Eagle2 normal "x86_64 i386 ppc"
-s336176330.581848
-e336176330.587990
+s336625931.616102
+e336625931.623774
 r1
 xCreateUniversalBinary
 x/Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/MacOS/Eagle2
 xnormal
 xx86_64 i386 ppc
-lSLF07#2@91"CreateUniversalBinary build/Debug/Eagle2.app/Contents/MacOS/Eagle2 normal "x86_64 i386 ppc"336176330#336176330#0(0"0(0#0#45"/Users/bmoulin/Desktop/Eagle2/x86_64 i386 ppc8619752832#432"    cd /Users/bmoulin/Desktop/Eagle2    /usr/bin/lipo -create /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle2 /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle2 /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle2 -output /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/MacOS/Eagle20#
+lSLF07#2@91"CreateUniversalBinary build/Debug/Eagle2.app/Contents/MacOS/Eagle2 normal "x86_64 i386 ppc"336625931#336625931#0(0"0(0#0#45"/Users/bmoulin/Desktop/Eagle2/x86_64 i386 ppc8617524064#432"    cd /Users/bmoulin/Desktop/Eagle2    /usr/bin/lipo -create /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle2 /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle2 /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle2 -output /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/MacOS/Eagle20#
 
 CLd /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle2 normal i386
-s336176330.041502
-e336176330.106678
+s336625930.174787
+e336625930.341274
 r1
 xLd
 x/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle2
 xnormal
 xi386
-lSLF07#2@99"Link /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle2336176330#336176330#0(0"0(0#0#0"8619819072#630"    cd /Users/bmoulin/Desktop/Eagle2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle2.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -framework SDL_image -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle20#
+lSLF07#2@99"Link /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle2336625930#336625930#0(0"0(0#0#0"8619933888#630"    cd /Users/bmoulin/Desktop/Eagle2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle2.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -framework SDL_image -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/i386/Eagle20#
 
 CLd /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle2 normal ppc
-s336176330.539798
-e336176330.581746
+s336625931.528167
+e336625931.615982
 r1
 xLd
 x/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle2
 xnormal
 xppc
-lSLF07#2@98"Link /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle2336176330#336176330#0(0"0(0#0#0"8619824096#627"    cd /Users/bmoulin/Desktop/Eagle2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle2.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -framework SDL_image -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle20#
+lSLF07#2@98"Link /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle2336625931#336625931#0(0"0(0#0#0"8619243424#627"    cd /Users/bmoulin/Desktop/Eagle2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle2.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -framework SDL_image -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/ppc/Eagle20#
 
 CLd /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle2 normal x86_64
-s336176330.022955
-e336176330.096761
+s336625928.548806
+e336625928.625664
 r1
 xLd
 x/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle2
 xnormal
 xx86_64
-lSLF07#2@101"Link /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle2336176330#336176330#0(0"0(0#0#0"8618134720#636"    cd /Users/bmoulin/Desktop/Eagle2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle2.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -framework SDL_image -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle20#
+lSLF07#2@101"Link /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle2336625928#336625928#0(0"0(0#0#0"8631038144#636"    cd /Users/bmoulin/Desktop/Eagle2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle2.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework GLUT -framework Cocoa -framework OpenGL -framework SDL_image -o /Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Objects-normal/x86_64/Eagle20#
 
 CPBXCp build/Debug/Eagle2.app/Contents/Frameworks/SDL.framework /Library/Frameworks/SDL.framework
-s335252658.934436
-e335252659.261663
+s336624136.202313
+e336624136.783783
 r1
 xPBXCp
 xbuild/Debug/Eagle2.app/Contents/Frameworks/SDL.framework
 x/Library/Frameworks/SDL.framework
-lSLF07#2@38"Copy /Library/Frameworks/SDL.framework335252658#335252659#0(0"0(0#0#33"/Library/Frameworks/SDL.framework8615842784#306"    cd /Users/bmoulin/Desktop/Eagle2    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Library/Frameworks/SDL.framework /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Frameworks0#
+lSLF07#2@38"Copy /Library/Frameworks/SDL.framework336624136#336624136#0(0"0(0#0#33"/Library/Frameworks/SDL.framework8628868832#306"    cd /Users/bmoulin/Desktop/Eagle2    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Library/Frameworks/SDL.framework /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Frameworks0#
 
 CProcessInfoPlistFile /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Info.plist Info.plist
-s335241054.000474
-e335241054.027687
+s336624120.770840
+e336624120.793870
 r1
 xProcessInfoPlistFile
 x/Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Info.plist
 xInfo.plist
-lSLF07#2@18"Process Info.plist335241054#335241054#0(0"0(0#0#40"/Users/bmoulin/Desktop/Eagle2/Info.plist31244010180771952#273"    cd /Users/bmoulin/Desktop/Eagle2    builtin-infoPlistUtility Info.plist -genpkginfo /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Info.plist0#
+lSLF07#2@18"Process Info.plist336624120#336624120#0(0"0(0#0#40"/Users/bmoulin/Desktop/Eagle2/Info.plist8620094048#273"    cd /Users/bmoulin/Desktop/Eagle2    builtin-infoPlistUtility Info.plist -genpkginfo /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app/Contents/Info.plist0#
 
 CProcessPCH /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-apzzfrmrmafuufaflatiakkegjnk/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -1239,8 +1239,8 @@ xcom.apple.compilers.gcc.4_0
 lSLF07#2@28"Precompile Eagle2_Prefix.pch334890777#334890779#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8607276960#1122"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Users/bmoulin/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Users/bmoulin/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-baxcrjbbjqxiumdpsimewapgrfuy/Eagle2_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bjarbevtopyrpzalofxxygdonzyf/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s335241054.364248
-e335241054.539136
+s336624121.128638
+e336624121.358174
 r1
 xProcessPCH
 x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bjarbevtopyrpzalofxxygdonzyf/Eagle2_Prefix.pch.gch
@@ -1249,7 +1249,7 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@28"Precompile Eagle2_Prefix.pch335241054#335241054#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8621059616#1114"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bjarbevtopyrpzalofxxygdonzyf/Eagle2_Prefix.pch.gch0#
+lSLF07#2@28"Precompile Eagle2_Prefix.pch336624121#336624121#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8623368160#1114"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bjarbevtopyrpzalofxxygdonzyf/Eagle2_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bnuczssdscnkizesbjdacwscclyb/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_0
 s334890774.226874
@@ -1385,8 +1385,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@28"Precompile Eagle2_Prefix.pch335033294#335033295#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8605662784#1114"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-cywgxfkqfnbtmshfqfveinjrpemh/Eagle2_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfukjxhfokrufwdydolcfskrbzxw/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
-s335241054.556460
-e335241055.346523
+s336624121.359381
+e336624121.771594
 r1
 xProcessPCH
 x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfukjxhfokrufwdydolcfskrbzxw/Eagle2_Prefix.pch.gch
@@ -1395,7 +1395,7 @@ xnormal
 xppc
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@28"Precompile Eagle2_Prefix.pch335241054#335241055#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8626185920#1118"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfukjxhfokrufwdydolcfskrbzxw/Eagle2_Prefix.pch.gch0#
+lSLF07#2@28"Precompile Eagle2_Prefix.pch336624121#336624121#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8620801888#1118"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfukjxhfokrufwdydolcfskrbzxw/Eagle2_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dpjdiehqfyzzephiaeawltciwffn/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s334893741.665854
@@ -1585,8 +1585,8 @@ CProcessPCH /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode
 r0
 
 CProcessPCH /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-hbvfwswbmybzsldswbwzgwqhzigc/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s335241054.477576
-e335241054.556351
+s336624121.254565
+e336624121.359290
 r1
 xProcessPCH
 x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-hbvfwswbmybzsldswbwzgwqhzigc/Eagle2_Prefix.pch.gch
@@ -1595,7 +1595,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@28"Precompile Eagle2_Prefix.pch335241054#335241054#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8620592640#1110"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-hbvfwswbmybzsldswbwzgwqhzigc/Eagle2_Prefix.pch.gch0#
+lSLF07#2@28"Precompile Eagle2_Prefix.pch336624121#336624121#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8630968480#1110"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-hbvfwswbmybzsldswbwzgwqhzigc/Eagle2_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-hcyghoksfrtzzleoydtpvlwdqdpd/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal i386 c com.apple.compilers.gcc.4_2
 r0
@@ -1630,8 +1630,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@28"Precompile Eagle2_Prefix.pch334893955#334893956#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8618164544#1105"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Library/Frameworkds/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-aqgtdhacseuuljeybthevvacnvvv/Eagle2_Prefix.pch.gch0#
 
 CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal x86_64 c++ com.apple.compilers.gcc.4_2
-s335241054.365762
-e335241054.477462
+s336624121.129688
+e336624121.254457
 r1
 xProcessPCH++
 x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch.gch
@@ -1640,7 +1640,7 @@ xnormal
 xx86_64
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@28"Precompile Eagle2_Prefix.pch335241054#335241054#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8620796736#1134"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch.gch0#
+lSLF07#2@28"Precompile Eagle2_Prefix.pch336624121#336624121#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8623000288#1134"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/x86_64 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bednqrjxfwsktodmhuwoiofgwgvv/Eagle2_Prefix.pch.gch0#
 
 CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-bnjnfbeqhgejoaaqeykrtaznefgf/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_2
 s335033295.699505
@@ -1682,8 +1682,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@28"Precompile Eagle2_Prefix.pch335047488#335047488#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8620665024#1138"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-ddxjmrvaquycmhboymdwzjfthkvk/Eagle2_Prefix.pch.gch0#
 
 CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
-s335241054.539254
-e335241054.610156
+s336624121.358291
+e336624121.431161
 r1
 xProcessPCH++
 x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch.gch
@@ -1692,7 +1692,7 @@ xnormal
 xi386
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@28"Precompile Eagle2_Prefix.pch335241054#335241054#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8626457792#1130"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch.gch0#
+lSLF07#2@28"Precompile Eagle2_Prefix.pch336624121#336624121#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8622788544#1130"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dfkiubzwygvoyzcxmkpacphxgoeo/Eagle2_Prefix.pch.gch0#
 
 CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-dlnteolorrjnrdelskesmtxgcgpw/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
 s335035285.850340
@@ -1760,8 +1760,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@28"Precompile Eagle2_Prefix.pch334893966#334893966#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8619913472#1109"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Library/Frameworkds/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fdsqrfjcgeibjpfewuykyrsiffbe/Eagle2_Prefix.pch.gch0#
 
 CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_2
-s335241054.610264
-e335241055.440265
+s336624121.431280
+e336624121.522353
 r1
 xProcessPCH++
 x/var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch.gch
@@ -1770,7 +1770,7 @@ xnormal
 xppc
 xc++
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@28"Precompile Eagle2_Prefix.pch335241054#335241055#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8626143328#1138"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch.gch0#
+lSLF07#2@28"Precompile Eagle2_Prefix.pch336624121#336624121#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8620147424#1138"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch ppc -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mtune=G5 -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL_image.framework/Headers -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/ppc -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-fevpimugumjezlauvpmnffwrwjer/Eagle2_Prefix.pch.gch0#
 
 CProcessPCH++ /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-gfbqrqvzsyryvdffotscgrdgxvsv/Eagle2_Prefix.pch.gch Eagle2_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_2
 s335047488.600018
@@ -1838,10 +1838,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@28"Precompile Eagle2_Prefix.pch334893748#334893749#0(0"0(0#0#47"/Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch8624160448#1050"    cd /Users/bmoulin/Desktop/Eagle2    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/Eagle2.hmap -F/Users/bmoulin/Desktop/Eagle2/build/Debug -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/bmoulin/Desktop/Eagle2/build/Debug/include -I/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources/i386 -I/Users/bmoulin/Desktop/Eagle2/build/Eagle2.build/Debug/Eagle2.build/DerivedSources -c /Users/bmoulin/Desktop/Eagle2/Eagle2_Prefix.pch -o /var/folders/dd/ddFGDb-4Gzq1vE39+PF0Sk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Eagle2_Prefix-hkegywfivwyfnicustmdlxmcmvll/Eagle2_Prefix.pch.gch0#
 
 CTouch /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app
-s336176330.588148
-e336176330.590774
+s336625931.623936
+e336625931.635725
 r1
 xTouch
 x/Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app
-lSLF07#2@58"Touch /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app336176330#336176330#0(0"0(0#0#0"8619740384#112"    cd /Users/bmoulin/Desktop/Eagle2    /usr/bin/touch -c /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app0#
+lSLF07#2@58"Touch /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app336625931#336625931#0(0"0(0#0#0"8603635168#112"    cd /Users/bmoulin/Desktop/Eagle2    /usr/bin/touch -c /Users/bmoulin/Desktop/Eagle2/build/Debug/Eagle2.app0#
 

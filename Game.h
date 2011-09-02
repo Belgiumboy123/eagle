@@ -46,6 +46,11 @@ protected:
 	
 	//variables needed for game loop
 	bool running;
+	
+private:
+	
+	void DrawWeapon(const Actor& actor);
+	
 };
 
 #endif

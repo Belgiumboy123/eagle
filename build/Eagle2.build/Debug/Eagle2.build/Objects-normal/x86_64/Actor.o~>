@@ -1,0 +1,2 @@
+/Users/bmoulin/Desktop/Eagle2/Actor.cpp: In constructor 'Actor::Actor()':
+/Users/bmoulin/Desktop/Eagle2/Actor.cpp:38: error: uninitialized reference member 'Actor::imageType'

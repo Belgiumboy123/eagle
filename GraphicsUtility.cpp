@@ -55,9 +55,9 @@ namespace {
 	
 	const string playerImage = "/Users/bmoulin/Desktop/image3.tga";
 
-  const GLfloat player_shield[4] = {0.4f, 1.0f, 0.2f, 0.25f};
-  const int sections = 20;
-  const float twoPi = 2*3.14159265;
+	const GLfloat player_shield[4] = {0.4f, 1.0f, 0.2f, 0.25f};
+	const int sections = 20;
+	const float twoPi = 2*3.14159265;
 }
 
 void Graphics::LoadPlayerImg(unsigned int& imageID){
@@ -79,6 +79,28 @@ bool Graphics::LoadImages(const vector<string>& imagefiles, vector<unsigned int>
 	}
 	std::cout << "LoadImages successful" << std::endl;
 	return true;
+}
+
+void Graphics::RenderObject(
+				  const unsigned int& texID,
+				  const int& xpos,
+				  const int& ypos,
+				  const int& w,
+				  const int& h
+				  )
+{
+	RenderActor
+	(
+		texID,
+		0,
+		0,
+		1,
+		1,
+		xpos,
+		ypos,
+		w,
+		h
+	);
 }
 
 /**
